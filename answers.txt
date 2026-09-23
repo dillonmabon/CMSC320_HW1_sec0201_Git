@@ -19,3 +19,9 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines two versions under a new merge commit, while rebasing
 puts one of the changes after the other. So merging shows when two files were
 edited at the same time, while rebasing makes it look like one happened the other.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about the technologies involved in
+data science. I am most interested in honing my SQL skills since it's something
+I've been meaning to learn for a while now.
