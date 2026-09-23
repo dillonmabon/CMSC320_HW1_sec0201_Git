@@ -12,3 +12,10 @@ Answer: Data science can be applied to public health. Large public datasets of
 patient health data are incredibly useful for data scientists to analyze. For
 example, at NIH, data scientists use patient health data to find insights related
 to variables that cause and influence cancer.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two versions under a new merge commit, while rebasing
+puts one of the changes after the other. So merging shows when two files were
+edited at the same time, while rebasing makes it look like one happened the other.
