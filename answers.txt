@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to public health. Large public datasets of
+patient health data are incredibly useful for data scientists to analyze. For
+example, at NIH, data scientists use patient health data to find insights related
+to variables that cause and influence cancer.
