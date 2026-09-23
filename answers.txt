@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: We would want to use git for version control and code sharing.
+When working on a group project or production team, being able to view
+pull requests and approve change with commit messages if especially helpful.
+This allows developers to have a local copy and clone older or newer verison of
+the project/codebase.
